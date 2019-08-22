@@ -1,0 +1,55 @@
+Build started at 2019-07-23T06:52:13.550525
+Main binary: C:\Programs\msys64\mingw64\bin\python3.exe
+Python system: Windows
+The Meson build system
+Version: 0.51.1
+Source dir: E:\Banee\To_DK\Eclipse_CDT\C_CPP_Meson
+Build dir: E:\Banee\To_DK\Eclipse_CDT\C_CPP_Meson\build\default
+Build type: native build
+Project name: C_CPP_Meson
+Project version: undefined
+No CFLAGS in the environment, not changing global flags.
+No LDFLAGS in the environment, not changing global flags.
+No CPPFLAGS in the environment, not changing global flags.
+Sanity testing C compiler: cc
+Is cross compiler: False.
+Sanity check compiler command line: cc -pipe E:\Banee\To_DK\Eclipse_CDT\C_CPP_Meson\build\default\meson-private\sanitycheckc.c -o E:\Banee\To_DK\Eclipse_CDT\C_CPP_Meson\build\default\meson-private\sanitycheckc.exe
+Sanity check compile stdout:
+
+-----
+Sanity check compile stderr:
+
+-----
+Running test binary command: E:\Banee\To_DK\Eclipse_CDT\C_CPP_Meson\build\default\meson-private\sanitycheckc.exe
+C compiler for the build machine: cc (gcc 9.1.0 "cc (Rev3, Built by MSYS2 project) 9.1.0")
+No CFLAGS in the environment, not changing global flags.
+No LDFLAGS in the environment, not changing global flags.
+No CPPFLAGS in the environment, not changing global flags.
+Sanity testing C compiler: cc
+Is cross compiler: False.
+Sanity check compiler command line: cc -pipe E:\Banee\To_DK\Eclipse_CDT\C_CPP_Meson\build\default\meson-private\sanitycheckc.c -o E:\Banee\To_DK\Eclipse_CDT\C_CPP_Meson\build\default\meson-private\sanitycheckc.exe
+Sanity check compile stdout:
+
+-----
+Sanity check compile stderr:
+
+-----
+Running test binary command: E:\Banee\To_DK\Eclipse_CDT\C_CPP_Meson\build\default\meson-private\sanitycheckc.exe
+C compiler for the host machine: cc (gcc 9.1.0 "cc (Rev3, Built by MSYS2 project) 9.1.0")
+Build machine cpu family: x86_64
+Build machine cpu: x86_64
+Build targets in project: 1
+Found ninja.EXE-1.9.0 at 'C:\Programs\msys64\mingw64\bin\ninja.EXE'
+Running compile:
+Working directory:  C:\Users\user\AppData\Local\Temp\tmpfellz8ta
+Command line:  cc C:\Users\user\AppData\Local\Temp\tmpfellz8ta\testfile.c -o C:\Users\user\AppData\Local\Temp\tmpfellz8ta\output.obj -pipe -c -O0 --print-search-dirs 
+
+Code:
+ 
+Compiler stdout:
+ install: C:/Programs/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/9.1.0/
+programs: =C:/Programs/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/9.1.0/;C:/Programs/msys64/mingw64/bin/../lib/gcc/;C:/Programs/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/9.1.0/../../../../x86_64-w64-mingw32/bin/x86_64-w64-mingw32/9.1.0/;C:/Programs/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/9.1.0/../../../../x86_64-w64-mingw32/bin/
+libraries: =C:/Programs/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/9.1.0/;C:/Programs/msys64/mingw64/bin/../lib/gcc/;C:/Programs/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/9.1.0/../../../../x86_64-w64-mingw32/lib/x86_64-w64-mingw32/9.1.0/;C:/Programs/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/9.1.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/Programs/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/9.1.0/../../../x86_64-w64-mingw32/9.1.0/;C:/Programs/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/9.1.0/../../../../lib/;F:/msys64/mingw64/x86_64-w64-mingw32/lib/x86_64-w64-mingw32/9.1.0/;F:/msys64/mingw64/x86_64-w64-mingw32/lib/../lib/;C:/Programs/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/9.1.0/../../../../x86_64-w64-mingw32/lib/;C:/Programs/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/9.1.0/../../../;F:/msys64/mingw64/x86_64-w64-mingw32/lib/
+
+Compiler stderr:
+ 

@@ -1,0 +1,8 @@
+[
+  {
+    "directory": "E:\\Banee\\To_DK\\Eclipse_CDT\\C_CPP_Meson\\build\\default",
+    "command": "cc @C_CPP_Meson@exe/C_CPP_Meson.c.obj.rsp",
+    "file": "../../C_CPP_Meson.c",
+    "output": "C_CPP_Meson@exe/C_CPP_Meson.c.obj"
+  }
+]
