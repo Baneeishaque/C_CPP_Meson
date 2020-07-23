@@ -1,9 +1,0 @@
-# ninja log v5
-3	142	5855481349112609	C_CPP_Meson@exe/C_CPP_Meson.c.obj	ec1c6e9675c3f96
-143	431	5855481352119419	C_CPP_Meson.exe	b67394ddc7ee5dc1
-0	13	0	meson-clean	e96b5dd9d1fec814
-3	83	5855483216176723	C_CPP_Meson@exe/C_CPP_Meson.c.obj	ec1c6e9675c3f96
-83	229	5855483217616017	C_CPP_Meson.exe	b67394ddc7ee5dc1
-0	14	0	meson-clean	e96b5dd9d1fec814
-3	86	5855496643964024	C_CPP_Meson@exe/C_CPP_Meson.c.obj	ec1c6e9675c3f96
-87	234	5855496645418066	C_CPP_Meson.exe	b67394ddc7ee5dc1
